@@ -1,3 +1,5 @@
+# Notes for Chapter 1 and Chapter 2
+
 [Link to the recorded session on YouTube](https://youtube.com/live/X_A00q6EaIM)
 
 ## Chapter 1 - Introduction to Microservices
