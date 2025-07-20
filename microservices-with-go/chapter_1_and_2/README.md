@@ -1,4 +1,4 @@
-# Notes for Chapter 1 and Chapter 2
+# Notes for Chapter 1 and Chapter 2: Microservices - Introduction and Scaffolding
 
 [Link to the recorded session on YouTube](https://youtube.com/live/X_A00q6EaIM)
 
