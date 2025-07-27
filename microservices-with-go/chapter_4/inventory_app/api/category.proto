@@ -1,0 +1,7 @@
+syntax = "proto3";
+option go_package = "/gen";
+
+message Category {
+    int64 id = 1;
+    string name = 2;
+}

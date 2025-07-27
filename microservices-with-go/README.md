@@ -6,3 +6,5 @@
 
 - [Notes of Chapter 1 and 2: Microservices - Introduction and Scaffolding](chapter_1_and_2/README.md)
 - [Notes of Chapter 3: Service Discovery](chapter_3/README.md)
+
+- [Notes of Chapter 4: Serialization](chapter_4/README.md)
